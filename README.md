@@ -24,4 +24,4 @@ The lab focused on the risk posed by predictable passwords when a login endpoint
 
 ## Project report
 
-[Original internship lab report (.odt)](./Brute_Force_Attack_wordpress.odt)
+[Original internship lab report (.odt)](./wordpress-authentication-security-lab-report.odt)
